@@ -1,0 +1,41 @@
+.block {
+  display: block;
+  width: 250px;
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.form {
+  padding: 20px;
+}
+.label {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 28px;
+  line-height: 1.5;
+}
+.input {
+  font-family: sans-serif;
+  display: block;
+  border: 1px solid rebeccapurple;
+  font-size: 18px;
+}
+.button {
+  border-radius: 5px;
+  border: none;
+  background-color: rebeccapurple;
+  background-color: rebeccapurple;
+  border: 3px solid rebeccapurple;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #fff;
+  padding: 10px;
+  outline: none;
+}
+
+.button:hover {
+  background-color: #fff;
+  border: 3px solid rebeccapurple;
+  color: rebeccapurple;
+}
